@@ -1,5 +1,5 @@
 import unittest
-from parenthesis import Parenthesis
+from src.parenthesis import Parenthesis
 
 
 class TestParenthesis(unittest.TestCase):
